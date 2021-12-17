@@ -14,7 +14,6 @@ export default function Email({route}){
         }
         getData();
     },[]);
-    
     return(
         <View style={styles.container}>
             <View style={styles.titulo}>

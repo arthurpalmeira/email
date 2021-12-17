@@ -19,7 +19,7 @@ export default function Email({route}){
         <View style={styles.container}>
             <View style={styles.titulo}>
                 <Text style={styles.assunto}>{email.tittle}</Text>
-                <FontAwesome name={email.star ? 'star'  : 'star-o'}  size={30} color= {email.star ? "yellow" : "white"} style={styles.star}/>
+                <FontAwesome name={email.star ? 'star'  : 'star-o'}  size={30} color= {email.star ? "yellow" : "black"} style={styles.star}/>
             </View>
             <View style={styles.envio}>
                 <View style={styles.imgto}>

@@ -1,5 +1,9 @@
 # e-mail
 Trabalho 1 da Disciplina de Dispositivos Móveis
-![Screenshot_2021-12-17-10-56-57-433_host exp exponent](https://user-images.githubusercontent.com/61032696/146558281-ac37eb06-e753-4faf-ac08-13ee2c6e1fe7.jpg)
-![Screenshot_2021-12-17-10-57-01-284_host exp exponent](https://user-images.githubusercontent.com/61032696/146558284-d5b315d1-be9b-4951-9798-608e60c57ba6.jpg)
-![Screenshot_2021-12-17-11-02-42-895_host exp exponent](https://user-images.githubusercontent.com/61032696/146558289-035ebe05-5d04-43b5-b686-07b71eb55160.jpg)
+![Screenshot_2021-12-17-10-56-57-433_host exp exponent](https://user-images.githubusercontent.com/61032696/146558804-81a32eee-6abe-4f83-af5d-dc7802ba02a4.jpg)
+![Screenshot_2021-12-17-10-57-01-284_host exp exponent](https://user-images.githubusercontent.com/61032696/146558808-63577435-de38-4225-87ec-16bc80be344e.jpg)
+![Screenshot_2021-12-17-11-02-42-895_host exp exponent](https://user-images.githubusercontent.com/61032696/146558810-cf992a04-9eb6-43e9-b128-5355fb01515a.jpg)
+
+
+https://user-images.githubusercontent.com/61032696/146560902-6b3e7921-b843-4ac6-a0c5-28ebdd2d4692.mp4
+
